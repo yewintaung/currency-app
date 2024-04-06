@@ -1,0 +1,5 @@
+# Pod values
+pod:
+  name: eur
+  container:
+    port: 8080

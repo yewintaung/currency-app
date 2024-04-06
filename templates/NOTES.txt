@@ -1,0 +1,2 @@
+The chart name {{ .Chart.Name }} is used.
+The app release name {{ .Release.Name }} is deployed.
